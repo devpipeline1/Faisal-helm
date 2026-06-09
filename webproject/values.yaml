@@ -1,0 +1,6 @@
+image:
+  repository: devpipeline/ravi
+  # This sets the pull policy for images.
+  tag: "v2"
+
+application: myapp
