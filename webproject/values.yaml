@@ -1,5 +1,5 @@
 image:
-  repository: devpipeline/ravi
+  repository: devpipeline/faizalimage
   # This sets the pull policy for images.
   tag: "v2"
 
