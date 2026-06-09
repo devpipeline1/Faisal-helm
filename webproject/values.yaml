@@ -1,6 +1,6 @@
 image:
   repository: devpipeline/faizalimage
   # This sets the pull policy for images.
-  tag: "27218074530"
+  tag: "27220161514"
 
 application: myapp
