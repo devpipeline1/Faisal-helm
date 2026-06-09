@@ -1,6 +1,6 @@
 image:
   repository: devpipeline/ravi
   # This sets the pull policy for images.
-  tag: "v2"
+  tag: "27218074530"
 
 application: myapp
