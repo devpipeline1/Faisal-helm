@@ -6,7 +6,7 @@ metadata:
       app: {{ .Values.application }}
       env: dev
 spec:
-   replicas: 6
+   replicas: 3
    selector:
       matchLabels:
          app: {{ .Values.application }}
